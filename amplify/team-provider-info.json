@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-havstemplate-dev-215116-authRole",
+      "UnauthRoleArn": "arn:aws:iam::976857814017:role/amplify-havstemplate-dev-215116-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::976857814017:role/amplify-havstemplate-dev-215116-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-havstemplate-dev-215116-deployment",
+      "UnauthRoleName": "amplify-havstemplate-dev-215116-unauthRole",
+      "StackName": "amplify-havstemplate-dev-215116",
+      "StackId": "arn:aws:cloudformation:us-east-1:976857814017:stack/amplify-havstemplate-dev-215116/3b7bdeb0-55a2-11ed-82c2-120b8a97221f",
+      "AmplifyAppId": "d3e1vs86duecs3"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3e1vs86duecs3",
+          "type": "cicd"
+        }
+      }
+    }
+  }
+}
